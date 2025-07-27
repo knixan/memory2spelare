@@ -30,9 +30,7 @@ Alla bilder dupliceras för att skapa kortpar.
 
 🛠️ Projektstruktur
 
-arduino
-Kopiera
-Redigera
+
 ├── index.html
 ├── content/
 │ ├── styles.css
